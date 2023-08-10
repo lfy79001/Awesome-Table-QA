@@ -21,13 +21,15 @@ A comprehensive paper list of Table-based Question Answering.
     [[Paper](https://aclanthology.org/2021.acl-long.254/)] *Fengbin Zhu, Wenqiang Lei, Youcheng Huang, Chao Wang, Shuo Zhang, Jiancheng Lv, Fuli Feng, Tat-Seng Chua* ACL2021
 
 5. **MultiModalQA: complex question answering over text, tables and images** `MultimodalQA`
-6. 
+   
     [[Paper](https://openreview.net/forum?id=ee6W5UgQLa)] *Alon Talmor, Ori Yoran, Amnon Catav, Dan Lahav, Yizhong Wang, Akari Asai, Gabriel Ilharco, Hannaneh Hajishirzi, Jonathan Berant* | ICLR2021
 
 7. **Finqa: A dataset of numerical reasoning over financial data** `FinQA`
+   
     [[Paper](https://openreview.net/forum?id=ee6W5UgQLa)] *Zhiyu Chen, Wenhu Chen, Charese Smiley, Sameena Shah, Iana Borova, Dylan Langdon, Reema Moussa, Matt Beane, Ting-Hao Huang, Bryan Routledge, William Yang Wang* | EMNLP2021
 
-8. **HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation** `HiTab`
+9. **HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation** `HiTab`
+    
     [[Paper](https://openreview.net/forum?id=ee6W5UgQLa)] *Zhoujun Cheng, Haoyu Dong, Zhiruo Wang, Ran Jia, Jiaqi Guo, Yan Gao, Shi Han, Jian-Guang Lou, Dongmei Zhang* | ACL2022
 
 
