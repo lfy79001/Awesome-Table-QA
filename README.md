@@ -12,6 +12,9 @@
 ## Paper
 
 ### Dataset
+
+#### Single-Turn
+
 1. **Compositional Semantic Parsing on Semi-Structured Tables** `WikiTableQuestions` 2015
   
     [[Paper](https://arxiv.org/abs/1508.00305)] [[Code](https://ppasupat.github.io/WikiTableQuestions/)] *EPanupong Pasupat, Percy Liang* 
@@ -76,6 +79,28 @@
 16. **AIT-QA: Question Answering Dataset over Complex Tables in the Airline Industry** `MultiHiertt` <ins>NAACL</ins> 2022
     
     [[Paper](https://aclanthology.org/2022.naacl-industry.34/)] [[Code](https://github.com/IBM/AITQA)]*Yannis Katsis, Saneem Chemmengath, Vishwajeet Kumar, Samarth Bharadwaj, Mustafa Canim, Michael Glass, Alfio Gliozzo, Feifei Pan, Jaydeep Sen, Karthik Sankaranarayanan, Soumen Chakrabarti*
+
+#### Multiple-Turn
+
+1. **PACIFIC: Towards proactive conversational question answering over tabular and textual data in finance** `Pacific` <ins>EMNLP</ins> 2022
+    
+    [[Paper](https://arxiv.org/abs/2210.08817)] [[Code](https://github.com/dengyang17/PACIFIC/)]*Yang Deng, Wenqiang Lei, Wenxuan Zhang, Wai Lam, Tat-Seng Chua*
+
+2. **ConvFinQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering** `ConvFinQA` <ins>EMNLP</ins> 2022
+    
+    [[Paper](https://aclanthology.org/2022.emnlp-main.421/)] [[Code](https://github.com/czyssrs/ConvFinQA)]*Zhiyu Chen, Shiyang Li, Charese Smiley, Zhiqiang Ma, Sameena Shah, William Yang Wang*
+
+3. **HybriDialogue: An Information-Seeking Dialogue Dataset Grounded on Tabular and Textual Data** `HybriDialogue` <ins>EMNLP-Findings</ins> 2022
+    
+    [[Paper](https://aclanthology.org/2022.findings-acl.41/)] [[Code](https://github.com/entitize/HybridDialogue)]*Kai Nakamura, Sharon Levy, Yi-Lin Tuan, Wenhu Chen, William Yang Wang*
+   
+
+4. **MMCoQA: Conversational Question Answering over Text, Tables, and Images** `MMCoQA` <ins>ACL</ins> 2022
+    
+    [[Paper](https://aclanthology.org/2022.acl-long.290/)] [[Code](https://github.com/liyongqi67/mmcoqa)]*Yongqi Li, Wenjie Li, Liqiang Nie*
+
+
+
 
 
 
