@@ -46,7 +46,20 @@
 
 9. **HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation** `HiTab` <ins>ACL</ins> 2022
     
-    [[Paper](https://aclanthology.org/2022.acl-long.78/)] [[Code](https://github.com/microsoft/hitab)]*Zhoujun Cheng, Haoyu Dong, Zhiruo Wang, Ran Jia, Jiaqi Guo, Yan Gao, Shi Han, Jian-Guang Lou, Dongmei Zhang* 
+    [[Paper](https://aclanthology.org/2022.acl-long.78/)] [[Code](https://github.com/microsoft/hitab)]*Zhoujun Cheng, Haoyu Dong, Zhiruo Wang, Ran Jia, Jiaqi Guo, Yan Gao, Shi Han, Jian-Guang Lou, Dongmei Zhang*
+
+10. **FeTaQA: Free-form Table Question Answering** `FeTaQA` <ins>TACL</ins> 2022
+    
+    [[Paper](https://aclanthology.org/2022.tacl-1.3/)] [[Code](https://github.com/Yale-LILY/FeTaQA)]*Linyong Nan, Chiachun Hsieh, Ziming Mao, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Hailey Schoelkopf, Riley Kong, Xiangru Tang, Mutethia Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev, Dragomir Radev
+
+
+
+
+
+
+
+
+
 
 
 
