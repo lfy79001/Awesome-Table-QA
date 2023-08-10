@@ -75,6 +75,16 @@
 
 
 
+### Existing Survey
+1. **A survey on table question answering: recent advances** 2022
+   [[Paper](https://arxiv.org/pdf/2207.05270.pdf)]*Nengzheng Jin, Joanna Siebert, Dongfang Li, Qingcai Chen*
+
+2. **A Survey on Table-and-Text HybridQA: Concepts, Methods, Challenges and Future Directions** 2022.12
+   [[Paper](https://arxiv.org/abs/2212.13465)]*Dingzirui Wang, Longxu Dou, Wanxiang Che*
+
+
+
+
 
 
 
