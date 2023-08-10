@@ -76,7 +76,7 @@
     
     [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548422)]*Fengbin Zhu, Wenqiang Lei, Fuli Feng, Chao Wang, Haozhou Zhang, Tat-Seng Chua*
 
-16. **AIT-QA: Question Answering Dataset over Complex Tables in the Airline Industry** `MultiHiertt` <ins>NAACL</ins> 2022
+16. **AIT-QA: Question Answering Dataset over Complex Tables in the Airline Industry** `AIT-QA` <ins>NAACL</ins> 2022
     
     [[Paper](https://aclanthology.org/2022.naacl-industry.34/)] [[Code](https://github.com/IBM/AITQA)]*Yannis Katsis, Saneem Chemmengath, Vishwajeet Kumar, Samarth Bharadwaj, Mustafa Canim, Michael Glass, Alfio Gliozzo, Feifei Pan, Jaydeep Sen, Karthik Sankaranarayanan, Soumen Chakrabarti*
 
