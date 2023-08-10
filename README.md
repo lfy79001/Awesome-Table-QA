@@ -26,7 +26,7 @@
 
 5. **TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance** `TAT-QA` <ins>ACL</ins> 2021
     
-    [[Paper](https://aclanthology.org/2021.acl-long.254/)] [[Code](https://github.com/NExTplusplus/TAT-QA)]*Fengbin Zhu, Wenqiang Lei, Youcheng Huang, Chao Wang, Shuo Zhang, Jiancheng Lv, Fuli Feng, Tat-Seng Chua* ACL2021
+    [[Paper](https://aclanthology.org/2021.acl-long.254/)] [[Code](https://github.com/NExTplusplus/TAT-QA)]*Fengbin Zhu, Wenqiang Lei, Youcheng Huang, Chao Wang, Shuo Zhang, Jiancheng Lv, Fuli Feng, Tat-Seng Chua*
 
 6. **MultiModalQA: complex question answering over text, tables and images** `MultimodalQA` <ins>ICLR</ins> 2021
    
