@@ -1,12 +1,23 @@
+<h1 align="center"> Awesome Instruction Learning </h1>
+
+<p align="center">
+  <a href="https://github.com/RenzeLou/awesome-instruction-learning"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+</p>
+
+<p align="center">
+🔥🔥🔥 An awesome paper list of <b>Table-based Question Answering</b>. 
+</p>
+
+
 # Awesome-Table-QA
 A comprehensive paper list of Table-based Question Answering.
 
 ## Paper
 
 ### Dataset
-1. **Compositional Semantic Parsing on Semi-Structured Tables** `WikiTableQuestions`
+1. **Compositional Semantic Parsing on Semi-Structured Tables** `WikiTableQuestions` `2015`
   
-    [[Paper](https://arxiv.org/abs/1508.00305)] *EPanupong Pasupat, Percy Liang* | 2015
+    [[Paper](https://arxiv.org/abs/1508.00305)] *EPanupong Pasupat, Percy Liang* 
    
 2. **Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning** `WikiSQL`
 
