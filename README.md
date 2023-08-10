@@ -9,15 +9,12 @@
 </p>
 
 
-# Awesome-Table-QA
-A comprehensive paper list of Table-based Question Answering.
-
 ## Paper
 
 ### Dataset
-1. **Compositional Semantic Parsing on Semi-Structured Tables** `WikiTableQuestions` `2015`
+1. **Compositional Semantic Parsing on Semi-Structured Tables** `WikiTableQuestions` 2015
   
-    [[Paper](https://arxiv.org/abs/1508.00305)] *EPanupong Pasupat, Percy Liang* 
+    [[Paper](https://arxiv.org/abs/1508.00305)] [[code](https://github.com/Rafa-zy/UD)] *EPanupong Pasupat, Percy Liang* 
    
 2. **Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning** `WikiSQL`
 
