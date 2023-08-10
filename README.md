@@ -1,4 +1,4 @@
-<h1 align="center"> Awesome Instruction Learning </h1>
+<h1 align="center"> Awesome Table Question Answering </h1>
 
 <p align="center">
   <a href="https://github.com/RenzeLou/awesome-instruction-learning"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
