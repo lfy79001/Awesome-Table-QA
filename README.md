@@ -61,7 +61,15 @@
     
     [[Paper](https://aclanthology.org/2022.acl-long.454)] [[Code](https://github.com/psunlpgroup/MultiHiertt)]*Yilun Zhao, Yunxiang Li, Chenying Li, Rui Zhang*
 
-13. **AIT-QA: Question Answering Dataset over Complex Tables in the Airline Industry** `MultiHiertt` <ins>NAACL</ins> 2022
+13. **Learning to Imagine: Integrating Counterfactual Thinking in Neural Discrete Reasoning** `TAT-HQA` <ins>ACL</ins> 2022
+    
+    [[Paper](https://aclanthology.org/2022.acl-long.5.pdf)]*Moxin Li, Fuli Feng, Hanwang Zhang, Xiangnan He, Fengbin Zhu, Tat-Seng Chua*
+
+14. **Towards Complex Document Understanding By Discrete Reasoning** `TAT-DQA` <ins>ACM MM</ins> 2022
+    
+    [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548422)]*Fengbin Zhu, Wenqiang Lei, Fuli Feng, Chao Wang, Haozhou Zhang, Tat-Seng Chua*
+
+15. **AIT-QA: Question Answering Dataset over Complex Tables in the Airline Industry** `MultiHiertt` <ins>NAACL</ins> 2022
     
     [[Paper](https://aclanthology.org/2022.naacl-industry.34/)] [[Code](https://github.com/IBM/AITQA)]*Yannis Katsis, Saneem Chemmengath, Vishwajeet Kumar, Samarth Bharadwaj, Mustafa Canim, Michael Glass, Alfio Gliozzo, Feifei Pan, Jaydeep Sen, Karthik Sankaranarayanan, Soumen Chakrabarti*
 
