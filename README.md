@@ -6,7 +6,7 @@ A comprehensive paper list of Table-based Question Answering.
 ### Dataset
 1. **Compositional Semantic Parsing on Semi-Structured Tables** `WikiTableQuestions`
   
-    [[Paper](https://arxiv.org/abs/1508.00305)]*EPanupong Pasupat, Percy Liang* 2015
+    [[Paper](https://arxiv.org/abs/1508.00305)] *EPanupong Pasupat, Percy Liang* 2015
    
 2. **Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning** `WikiSQL`
 
