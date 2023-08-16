@@ -154,6 +154,14 @@
    
    [[Paper](https://arxiv.org/abs/2212.13465)]*Dingzirui Wang, Longxu Dou, Wanxiang Che*
 
+3. **A Survey on Neural Data-to-Text Generation**
+
+   [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215344)]*Yupian Lin, Tong Ruan, Jingping Liu, Haofen Wang*
+
+4. **A Survey on Text-to-SQL Parsing: Concepts, Methods, and Future Directions**
+
+   [[Paper](https://arxiv.org/pdf/2208.13629.pdf)]*Bowen Qin, Binyuan Hui, Lihan Wang, Min Yang, Jinyang Li, Binhua Li, Ruiying Geng, Rongyu Cao, Jian Sun, Luo Si, Fei Huang, Yongbin Li*
+
 
 
 
