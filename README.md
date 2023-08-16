@@ -128,6 +128,21 @@
     [[Paper](https://aclanthology.org/2022.naacl-main.68.pdf)] [[Code](https://github.com/Yale-LILY/ReasTAP)]*Yilun Zhao, Linyong Nan, Zhenting Qi, Rui Zhang, Dragomir Radev*
 
 
+#### LLM-based Methods
+
+1. **Binding Language Models in Symbolic Languages**  <ins>ICLR</ins> 2023
+
+    `WikiSQL, WikiTableQuestions, MultimodalQA`
+
+    [[Paper](https://arxiv.org/abs/2210.02875)] [[Code](https://lm-code-binder.github.io)]*Zhoujun Cheng, Tianbao Xie, Peng Shi, Chengzu Li, Rahul Nadkarni, Yushi Hu, Caiming Xiong, Dragomir Radev, Mari Ostendorf, Luke Zettlemoyer, Noah A. Smith, Tao Yu*
+
+2. **Large Language Models are Versatile Decomposers: Decompose Evidence and Questions for Table-based Reasoning**  <ins>SIGIR</ins> 2023
+
+    `WikiSQL, WikiTableQuestions`
+
+    [[Paper](https://arxiv.org/abs/2301.13808)] *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li*
+
+
 
 
 ### Existing Survey
