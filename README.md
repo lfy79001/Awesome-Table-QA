@@ -105,7 +105,7 @@
 
 #### Table Pretraining (TaLMs)
 
-1. **TAPEX: Table pre-training via learning a neural SQL executor** `WikiSQL``WikiTableQuestions``SQA`  <ins>ICLR</ins> 2022
+1. **TAPEX: Table pre-training via learning a neural SQL executor** `WikiSQL, WikiTableQuestions, SQA` <ins>ICLR</ins> 2022
     
     [[Paper](https://arxiv.org/pdf/2107.07653.pdf)] [[Code](https://github.com/microsoft/Table-Pretraining)]*Qian Liu, Bei Chen, Jiaqi Guo, Morteza Ziyadi, Zeqi Lin, Weizhu Chen, Jian-Guang Lou*
 
