@@ -142,12 +142,34 @@
 
     [[Paper](https://arxiv.org/abs/2301.13808)] *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li*
 
-3. **Large language models are few (1)-shot table reasoners**  <ins>EACL</ins> 2023
+3. **Large language models are few (1)-shot table reasoners**  <ins>EACL-Findings</ins> 2023
 
     `WikiTableQuestions, FetaQA`
 
-    [[Paper](https://arxiv.org/abs/2301.13808)] *Wenhu Chen*
+    [[Paper](https://arxiv.org/abs/2210.06710)] *Wenhu Chen*
 
+4. **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks**  <ins>Arxiv</ins> 2023
+
+    `WikiTableQuestions, FetaQA`
+
+    [[Paper](https://arxiv.org/abs/2211.12588)] *Wenhu Chen, Xueguang Ma, Xinyi Wang, William W Cohen*
+
+5. **Structgpt: A general framework for large language model to reason over structured data**  <ins>Arxiv</ins> 2023
+
+    `WikiSQL, WikiTableQuestions`
+
+    [[Paper](https://arxiv.org/abs/2305.09645)] *Jinhao Jiang, Kun Zhou, Zican Dong, Keming Ye, Wayne Xin Zhao, Ji-Rong Wen*
+
+6. **Structgpt: A general framework for large language model to reason over structured data**  <ins>Arxiv</ins> 2023
+
+    `WikiSQL, WikiTableQuestions`
+
+    [[Paper](https://arxiv.org/abs/2305.09645)] *Jinhao Jiang, Kun Zhou, Zican Dong, Keming Ye, Wayne Xin Zhao, Ji-Rong Wen*
+
+
+#### Retrieval-then-Read Methods
+
+1. 
 
 
 
