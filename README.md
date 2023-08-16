@@ -142,6 +142,13 @@
 
     [[Paper](https://arxiv.org/abs/2301.13808)] *Yunhu Ye, Binyuan Hui, Min Yang, Binhua Li, Fei Huang, Yongbin Li*
 
+3. **Large language models are few (1)-shot table reasoners**  <ins>EACL</ins> 2023
+
+    `WikiTableQuestions, FetaQA`
+
+    [[Paper](https://arxiv.org/abs/2301.13808)] *Wenhu Chen*
+
+
 
 
 
