@@ -121,6 +121,11 @@
 
     [[Paper](https://aclanthology.org/2022.naacl-main.68.pdf)] [[Code](https://github.com/jzbjyb/OmniTab)]*Zhengbao Jiang, Yi Mao, Pengcheng He, Graham Neubig, Weizhu Chen*
 
+3. **ReasTAP: Injecting Table Reasoning Skills During Pre-training via Synthetic Reasoning Examples**  <ins>EMNLP</ins> 2022
+
+    `WikiSQL, WikiTableQuestions`
+
+    [[Paper](https://aclanthology.org/2022.naacl-main.68.pdf)] [[Code](https://github.com/Yale-LILY/ReasTAP)]*Yilun Zhao, Linyong Nan, Zhenting Qi, Rui Zhang, Dragomir Radev*
 
 
 
