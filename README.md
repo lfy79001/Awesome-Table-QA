@@ -26,57 +26,61 @@
 3. **Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task** `Spider` <ins>EMNLP</ins> 2018
 
     [[Paper](https://arxiv.org/abs/1809.08887)] [[Code](https://github.com/taoyds/spider)] *Tao Yu, Rui Zhang, Kai Yang, Michihiro Yasunaga, Dongxu Wang, Zifan Li, James Ma, Irene Li, Qingning Yao, Shanelle Roman, Zilin Zhang, Dragomir Radev*
+
+4. **On the Potential of Lexico-logical Alignments for Semantic Parsing to SQL Queries** `SQUALL` <ins>EMNLP-Findings</ins> 2020
+
+    [[Paper](https://arxiv.org/abs/2010.11246)] [[Code](https://www.github.com/tzshi/squall)] *Tianze Shi, Chen Zhao, Jordan Boyd-Graber, Hal Daumé III, Lillian Lee*
    
-4. **HybridQA: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data** `HybridQA` <ins>EMNLP-Findings</ins> 2020
+5. **HybridQA: A Dataset of Multi-Hop Question Answering over Tabular and Textual Data** `HybridQA` <ins>EMNLP-Findings</ins> 2020
     
     [[Paper](https://aclanthology.org/2020.findings-emnlp.91/)] [[Code](https://github.com/wenhuchen/HybridQA)]*Wenhu Chen, Hanwen Zha, Zhiyu Chen, Wenhan Xiong, Hong Wang, William Yang Wang*
 
-5. **TSQA: tabular scenario based question answering** `GeoTSQA` <ins>AAAI</ins> 2021
+6. **TSQA: tabular scenario based question answering** `GeoTSQA` <ins>AAAI</ins> 2021
     
     [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/17570)] [[Code](https://github.com/nju-websoft/TSQA)]*Xiao Li, Yawei Sun, Gong Cheng*
 
-6. **TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance** `TAT-QA` <ins>ACL</ins> 2021
+7. **TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance** `TAT-QA` <ins>ACL</ins> 2021
     
     [[Paper](https://aclanthology.org/2021.acl-long.254/)] [[Code](https://github.com/NExTplusplus/TAT-QA)]*Fengbin Zhu, Wenqiang Lei, Youcheng Huang, Chao Wang, Shuo Zhang, Jiancheng Lv, Fuli Feng, Tat-Seng Chua*
 
 
-7. **Open Domain Question Answering over Tables via Dense Retrieval** `NQ-table` <ins>NAACL</ins> 2021
+8. **Open Domain Question Answering over Tables via Dense Retrieval** `NQ-table` <ins>NAACL</ins> 2021
    
     [[Paper](https://aclanthology.org/2021.naacl-main.43/)] [[Code](https://github.com/google-research/tapas)]*Jonathan Herzig, Thomas Müller, Syrine Krichene, Julian Eisenschlos* 
 
-8. **Open Question Answering over Tables and Text** `OTT-QA` <ins>ICLR</ins> 2021
+9. **Open Question Answering over Tables and Text** `OTT-QA` <ins>ICLR</ins> 2021
    
     [[Paper](https://arxiv.org/abs/2010.10439)] [[Code](https://github.com/wenhuchen/OTT-QA)]*Wenhu Chen, Ming-Wei Chang, Eva Schlinger, William Wang, William W. Cohen* 
 
-9. **MultiModalQA: complex question answering over text, tables and images** `MultimodalQA` <ins>ICLR</ins> 2021
+10. **MultiModalQA: complex question answering over text, tables and images** `MultimodalQA` <ins>ICLR</ins> 2021
    
     [[Paper](https://openreview.net/forum?id=ee6W5UgQLa)] [[Code](https://github.com/allenai/multimodalqa)]*Alon Talmor, Ori Yoran, Amnon Catav, Dan Lahav, Yizhong Wang, Akari Asai, Gabriel Ilharco, Hannaneh Hajishirzi, Jonathan Berant* 
 
-10. **Finqa: A dataset of numerical reasoning over financial data** `FinQA` <ins>EMNLP</ins> 2021
+11. **Finqa: A dataset of numerical reasoning over financial data** `FinQA` <ins>EMNLP</ins> 2021
    
     [[Paper](https://arxiv.org/abs/2109.00122)] [[Code](https://github.com/czyssrs/FinQA)] *Zhiyu Chen, Wenhu Chen, Charese Smiley, Sameena Shah, Iana Borova, Dylan Langdon, Reema Moussa, Matt Beane, Ting-Hao Huang, Bryan Routledge, William Yang Wang* 
 
-11. **HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation** `HiTab` <ins>ACL</ins> 2022
+12. **HiTab: A Hierarchical Table Dataset for Question Answering and Natural Language Generation** `HiTab` <ins>ACL</ins> 2022
     
     [[Paper](https://aclanthology.org/2022.acl-long.78/)] [[Code](https://github.com/microsoft/hitab)]*Zhoujun Cheng, Haoyu Dong, Zhiruo Wang, Ran Jia, Jiaqi Guo, Yan Gao, Shi Han, Jian-Guang Lou, Dongmei Zhang*
 
-12. **FeTaQA: Free-form Table Question Answering** `FeTaQA` <ins>TACL</ins> 2022
+13. **FeTaQA: Free-form Table Question Answering** `FeTaQA` <ins>TACL</ins> 2022
     
     [[Paper](https://aclanthology.org/2022.tacl-1.3/)] [[Code](https://github.com/Yale-LILY/FeTaQA)]*Linyong Nan, Chiachun Hsieh, Ziming Mao, Xi Victoria Lin, Neha Verma, Rui Zhang, Wojciech Kryściński, Hailey Schoelkopf, Riley Kong, Xiangru Tang, Mutethia Mutuma, Ben Rosand, Isabel Trindade, Renusree Bandaru, Jacob Cunningham, Caiming Xiong, Dragomir Radev, Dragomir Radev
 
-13. **MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data** `MultiHiertt` <ins>ACL</ins> 2022
+14. **MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data** `MultiHiertt` <ins>ACL</ins> 2022
     
     [[Paper](https://aclanthology.org/2022.acl-long.454)] [[Code](https://github.com/psunlpgroup/MultiHiertt)]*Yilun Zhao, Yunxiang Li, Chenying Li, Rui Zhang*
 
-14. **Learning to Imagine: Integrating Counterfactual Thinking in Neural Discrete Reasoning** `TAT-HQA` <ins>ACL</ins> 2022
+15. **Learning to Imagine: Integrating Counterfactual Thinking in Neural Discrete Reasoning** `TAT-HQA` <ins>ACL</ins> 2022
     
     [[Paper](https://aclanthology.org/2022.acl-long.5.pdf)]*Moxin Li, Fuli Feng, Hanwang Zhang, Xiangnan He, Fengbin Zhu, Tat-Seng Chua*
 
-15. **Towards Complex Document Understanding By Discrete Reasoning** `TAT-DQA` <ins>ACM MM</ins> 2022
+16. **Towards Complex Document Understanding By Discrete Reasoning** `TAT-DQA` <ins>ACM MM</ins> 2022
     
     [[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548422)]*Fengbin Zhu, Wenqiang Lei, Fuli Feng, Chao Wang, Haozhou Zhang, Tat-Seng Chua*
 
-16. **AIT-QA: Question Answering Dataset over Complex Tables in the Airline Industry** `AIT-QA` <ins>NAACL</ins> 2022
+17. **AIT-QA: Question Answering Dataset over Complex Tables in the Airline Industry** `AIT-QA` <ins>NAACL</ins> 2022
     
     [[Paper](https://aclanthology.org/2022.naacl-industry.34/)] [[Code](https://github.com/IBM/AITQA)]*Yannis Katsis, Saneem Chemmengath, Vishwajeet Kumar, Samarth Bharadwaj, Mustafa Canim, Michael Glass, Alfio Gliozzo, Feifei Pan, Jaydeep Sen, Karthik Sankaranarayanan, Soumen Chakrabarti*
 
@@ -110,6 +114,13 @@
     `WikiSQL, WikiTableQuestions, SQA`
 
     [[Paper](https://arxiv.org/pdf/2107.07653.pdf)] [[Code](https://github.com/microsoft/Table-Pretraining)]*Qian Liu, Bei Chen, Jiaqi Guo, Morteza Ziyadi, Zeqi Lin, Weizhu Chen, Jian-Guang Lou*
+
+2. **OmniTab: Pretraining with Natural and Synthetic Data for Few-shot Table-based Question Answering**  <ins>NAACL</ins> 2022
+
+    `WikiSQL, WikiTableQuestions`
+
+    [[Paper](https://aclanthology.org/2022.naacl-main.68.pdf)] [[Code](https://github.com/jzbjyb/OmniTab)]*Zhengbao Jiang, Yi Mao, Pengcheng He, Graham Neubig, Weizhu Chen*
+
 
 
 
