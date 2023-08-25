@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🔥🔥🔥 An awesome paper list of <b>Table-based Question Answering</b>. 
+🔥🔥🔥 oloAn awesome paper list of <b>Table-based Question Answering</b>. 
 </p>
 
 
@@ -84,6 +84,10 @@
     
     [[Paper](https://aclanthology.org/2022.naacl-industry.34/)] [[Code](https://github.com/IBM/AITQA)]*Yannis Katsis, Saneem Chemmengath, Vishwajeet Kumar, Samarth Bharadwaj, Mustafa Canim, Michael Glass, Alfio Gliozzo, Feifei Pan, Jaydeep Sen, Karthik Sankaranarayanan, Soumen Chakrabarti*
 
+18. **ToTTo: A Controlled Table-To-Text Generation Dataset** `ToTTo` <ins>EMNLP </ins> 2020
+    
+    [[Paper](https://arxiv.org/abs/2004.14373)] [[Code](https://github.com/google-research-datasets/totto)]*Ankur P. Parikh, Xuezhi Wang, Sebastian Gehrmann, Manaal Faruqui, Bhuwan Dhingra, Diyi Yang, Dipanjan Das*
+
 #### Multiple-Turn
 
 1. **PACIFIC: Towards proactive conversational question answering over tabular and textual data in finance** `Pacific` <ins>EMNLP</ins> 2022
@@ -103,6 +107,9 @@
     
     [[Paper](https://aclanthology.org/2022.acl-long.290/)] [[Code](https://github.com/liyongqi67/mmcoqa)]*Yongqi Li, Wenjie Li, Liqiang Nie*
 
+5. **CoQA: A Conversational Question Answering Challenges** `CoQA` <ins>TACL</ins> 2019
+    
+    [[Paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00266/43511/CoQA-A-Conversational-Question-Answering-Challenge)] [[Code](https://stanfordnlp.github.io/coqa)]*Siva Reddy, Danqi Chen, Christopher D. Manning*
 
 
 ### Methods
@@ -126,6 +133,12 @@
     `WikiSQL, WikiTableQuestions`
 
     [[Paper](https://aclanthology.org/2022.naacl-main.68.pdf)] [[Code](https://github.com/Yale-LILY/ReasTAP)]*Yilun Zhao, Linyong Nan, Zhenting Qi, Rui Zhang, Dragomir Radev*
+
+4. **TaBERT: Pretraining for Joint Understanding of Textual and Tabular Data**  <ins>ACL</ins> 2020
+
+    ` WikiTableQuestions, Spider`
+
+    [[Paper](https://arxiv.org/pdf/2005.08314.pdf)] [[Code](http://fburl.com/TaBERT)]*Pengcheng Yin, Graham Neubig, Wen-tau Yih, Sebastian Riedel*
 
 
 #### LLM-based Methods
