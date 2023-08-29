@@ -299,13 +299,32 @@
 
 6. **NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering**  `NAPG` <ins>Arxiv</ins> 2023
 
-   `TAT-QA`
+   `Multihiertt`
 
     [[Paper](https://arxiv.org/abs/2211.03462)] *Tengxun Zhang, Hongfei Xu, Josef van Genabith, Deyi Xiong, Hongying Zan*
 
+
+   
+
 ##### Multimodal Reasoning
 
-1. **
+1. **MultiModalQA: complex question answering over text, tables and images** `ImplicitDecomp` <ins>ICLR</ins> 2021
+   
+    [[Paper](https://openreview.net/forum?id=ee6W5UgQLa)] [[Code](https://github.com/allenai/multimodalqa)]*Alon Talmor, Ori Yoran, Amnon Catav, Dan Lahav, Yizhong Wang, Akari Asai, Gabriel Ilharco, Hannaneh Hajishirzi, Jonathan Berant* 
+
+2. **MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text**  `MuRAG` <ins>EMNLP</ins> 2022
+
+   `MultimodalQA`
+
+    [[Paper](https://aclanthology.org/2022.emnlp-main.375.pdf)] *Wenhu Chen, Hexiang Hu, Xi Chen, Pat Verga, William Cohen*
+
+3. **Turning Tables: Generating Examples from Semi-structured Tables for Endowing Language Models with Reasoning Skills** `SKURG` <ins>ACL</ins> 2022
+   
+   `MultimodalQA`
+
+    [[Paper](https://aclanthology.org/2022.acl-long.416/)] *Ori Yoran, Alon Talmor, Jonathan Berant*
+
+
 
 
 #### Non-Retrieval Methods
