@@ -140,6 +140,12 @@
 
     [[Paper](https://arxiv.org/pdf/2005.08314.pdf)] [[Code](http://fburl.com/TaBERT)]*Pengcheng Yin, Graham Neubig, Wen-tau Yih, Sebastian Riedel*
 
+5. **MATE: Multi-view Attention for Table Transformer Efficiency**  <ins>EMNLP</ins> 2021
+
+    ` WikiTableQuestions, HybridQA`
+
+    [[Paper](https://arxiv.org/abs/2109.04312)]*Julian Martin Eisenschlos, Maharshi Gor, Thomas Müller, William W. Cohen*
+
 
 #### LLM-based Methods
 
@@ -178,6 +184,42 @@
 #### Retrieval-then-Read Methods
 
 ##### Multi-hop
+
+1. **MATE: Multi-view Attention for Table Transformer Efficiency**  <ins>EMNLP</ins> 2021
+
+    ` WikiTableQuestions, HybridQA`
+
+    [[Paper](https://arxiv.org/abs/2109.04312)] *Julian Martin Eisenschlos, Maharshi Gor, Thomas Müller, William W. Cohen*
+
+2. **Multi-Row, Multi-Span Distant Supervision For Table+Text Question Answering**  `MITQA` <ins>ACL</ins> 2023
+
+    `HybridQA, OTT-QA`
+
+    [[Paper](https://aclanthology.org/2023.acl-long.449/)] *Vishwajeet Kumar, Yash Gupta, Saneem Chemmengath, Jaydeep Sen, Soumen Chakrabarti, Samarth Bharadwaj, Feifei Pan*
+
+3. **Reasoning over hybrid chain for table-and-text open domain question answering** `CARP` <ins>IJCAI</ins> 2022
+
+    `OTT-QA`
+
+    [[Paper](https://www.ijcai.org/proceedings/2022/0629.pdf)] *Wanjun Zhong, Junjie Huang, Qian Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan*
+
+4. **Multi-hop open-domain question answering over structured and unstructured knowledge**  `DEHG` <ins>NAACL-Findings</ins> 2022
+
+    `HybridQA`
+
+    [[Paper](https://aclanthology.org/2022.findings-naacl.12/)] *Yue Feng, Zhen Han, Mingming Sun, Ping Li*
+
+5. **Mixed-modality Representation Learning and Pre-training for Joint Table-and-Text Retrieval in OpenQA**  `OTTeR` <ins>EMNLP-Findings</ins> 2022
+
+    `OTT-QA`
+
+    [[Paper](https://arxiv.org/abs/2210.05197)] *Junjie Huang, Wanjun Zhong, Qian Liu, Ming Gong, Daxin Jiang, Nan Duan*
+
+6. **MuGER2: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering**  `MuGER` <ins>EMNLP-Findings</ins> 2022
+
+    `HybridQA`
+
+    [[Paper](https://arxiv.org/abs/2210.10350)] *Yingyao Wang, Junwei Bao, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao*
 
 
 ##### Numerical Reasoning
