@@ -173,11 +173,6 @@
 
     [[Paper](https://arxiv.org/abs/2305.09645)] *Jinhao Jiang, Kun Zhou, Zican Dong, Keming Ye, Wayne Xin Zhao, Ji-Rong Wen*
 
-6. **Structgpt: A general framework for large language model to reason over structured data**  <ins>Arxiv</ins> 2023
-
-    `WikiSQL, WikiTableQuestions`
-
-    [[Paper](https://arxiv.org/abs/2305.09645)] *Jinhao Jiang, Kun Zhou, Zican Dong, Keming Ye, Wayne Xin Zhao, Ji-Rong Wen*
 
 
 #### Retrieval-then-Read Methods
