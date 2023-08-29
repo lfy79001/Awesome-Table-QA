@@ -239,6 +239,32 @@
 
    [[Paper](https://arxiv.org/abs/2305.11725)] *Fangyu Lei, Xiang Li, Yifan Wei, Shizhu He, Yiming Huang, Jun Zhao, Kang Liu*
 
+##### Open-Domain
+
+1. **Reasoning over hybrid chain for table-and-text open domain question answering** `CARP` <ins>IJCAI</ins> 2022
+
+    `OTT-QA`
+
+    [[Paper](https://www.ijcai.org/proceedings/2022/0629.pdf)] *Wanjun Zhong, Junjie Huang, Qian Liu, Ming Zhou, Jiahai Wang, Jian Yin, Nan Duan*
+
+2. **Mixed-modality Representation Learning and Pre-training for Joint Table-and-Text Retrieval in OpenQA**  `OTTeR` <ins>EMNLP-Findings</ins> 2022
+
+    `OTT-QA`
+
+    [[Paper](https://arxiv.org/abs/2210.05197)] *Junjie Huang, Wanjun Zhong, Qian Liu, Ming Gong, Daxin Jiang, Nan Duan*
+
+3. **Open-domain Question Answering via Chain of Reasoning over Heterogeneous Knowledge**  `CORE` <ins>EMNLP-Findings</ins> 2022
+
+    `OTT-QA`
+
+    [[Paper](https://arxiv.org/abs/2210.05197)] *Kaixin Ma, Hao Cheng, Xiaodong Liu, Eric Nyberg, Jianfeng Gao*
+
+4. **Chain-of-Skills: A Configurable Model for Open-domain Question Answering**  `CORE` <ins>ACL</ins> 2023
+
+    `OTT-QA`
+
+    [[Paper](https://arxiv.org/abs/2305.03130)] *Kaixin Ma, Hao Cheng, Yu Zhang, Xiaodong Liu, Eric Nyberg, Jianfeng Gao*
+
 ##### Numerical Reasoning
 
 
