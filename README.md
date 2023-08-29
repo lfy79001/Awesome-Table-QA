@@ -177,8 +177,43 @@
 
 #### Retrieval-then-Read Methods
 
-1. 
+##### Multi-hop
 
+
+##### Numerical Reasoning
+
+
+#### Non-Retrieval Methods
+
+1. **TaCube: Pre-computing Data Cubes for Answering Numerical-Reasoning Questions over Tabular Data**  <ins>EMNLP</ins> 2022
+
+    `TAT-QA, WikiTableQuestions`
+
+    [[Paper](https://aclanthology.org/2022.emnlp-main.145.pdf)] *Fan Zhou, Mengkang Hu, Haoyu Dong, Zhoujun Cheng, Fan Cheng, Shi Han, Dongmei Zhang*
+
+2. **Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder**  <ins>COLING</ins> 2022
+
+    `TAT-QA`
+
+    [[Paper](https://arxiv.org/abs/2209.07692)] *Fangyu Lei, Shizhu He, Xiang Li, Jun Zhao, Kang Liu*
+
+3. **UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation**  <ins>EMNLP</ins> 2022
+
+    `TAT-QA`
+
+    [[Paper](https://aclanthology.org/2022.emnlp-main.508/)] *Yongwei Zhou, Junwei Bao, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao*
+
+4. **Multi-View Graph Representation Learning for Answering Hybrid Numerical Reasoning Question**  <ins>Arxiv</ins> 2023
+
+    `TAT-QA`
+
+    [[Paper](https://arxiv.org/abs/2305.03458)] *Yifan Wei, Fangyu Lei, Yuanzhe Zhang, Jun Zhao, Kang Liu*
+
+5. **Multi-View Graph Representation Learning for Answering Hybrid Numerical Reasoning Question**  <ins>Arxiv</ins> 2023
+
+    `TAT-QA`
+
+    [[Paper](https://arxiv.org/abs/2305.03458)] *Yifan Wei, Fangyu Lei, Yuanzhe Zhang, Jun Zhao, Kang Liu*
 
 
 
