@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🔥🔥🔥 oloAn awesome paper list of <b>Table-based Question Answering</b>. 
+🔥🔥🔥 An awesome paper list of <b>Table-based Question Answering</b>. 
 </p>
 
 
