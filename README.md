@@ -294,11 +294,6 @@
 
     [[Paper](https://arxiv.org/abs/2305.03458)] *Yifan Wei, Fangyu Lei, Yuanzhe Zhang, Jun Zhao, Kang Liu*
 
-5. **Multi-View Graph Representation Learning for Answering Hybrid Numerical Reasoning Question**  <ins>Arxiv</ins> 2023
-
-    `TAT-QA`
-
-    [[Paper](https://arxiv.org/abs/2305.03458)] *Yifan Wei, Fangyu Lei, Yuanzhe Zhang, Jun Zhao, Kang Liu*
 
 
 
