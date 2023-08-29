@@ -267,6 +267,46 @@
 
 ##### Numerical Reasoning
 
+1. **Finqa: A dataset of numerical reasoning over financial data** `FinQANet` <ins>EMNLP</ins> 2021
+
+   `FinQA`
+   
+    [[Paper](https://arxiv.org/abs/2109.00122)] [[Code](https://github.com/czyssrs/FinQA)] *Zhiyu Chen, Wenhu Chen, Charese Smiley, Sameena Shah, Iana Borova, Dylan Langdon, Reema Moussa, Matt Beane, Ting-Hao Huang, Bryan Routledge, William Yang Wang*
+
+2. **APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning** `APOLLO` <ins>Arxiv</ins> 2023
+
+   `FinQA, ConvFinQA`
+
+    [[Paper](https://arxiv.org/abs/2212.07249)] *Jiashuo Sun, Hang Zhang, Chen Lin, Yeyun Gong, Jian Guo, Nan Duan*
+
+3. **Dyrren: A dynamic retriever-reranker-generator model for numerical reasoning over tabular and textual data** `Dyrren` <ins>AAAI</ins> 2023
+
+   `FinQA`
+      
+    [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26543)]  *Xiao Li, Yin Zhu, Sichen Liu, Jiangzhou Ju, Yuzhong Qu, Gong Cheng*
+
+4. **MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data** `MT2Net` <ins>ACL</ins> 2022
+
+   `Multihiertt`
+    
+    [[Paper](https://aclanthology.org/2022.acl-long.454)] [[Code](https://github.com/psunlpgroup/MultiHiertt)]*Yilun Zhao, Yunxiang Li, Chenying Li, Rui Zhang*
+
+5. **Hypothetical Training for Robust Machine Reading Comprehension of Tabular Context** `MT2Net` <ins>ACL-Findings</ins> 2023
+
+   `TAT-QA, TAT-HQA`
+       
+    [[Paper](https://aclanthology.org/2023.findings-acl.79/)] *Moxin Li, Wenjie Wang, Fuli Feng, Hanwang Zhang, Qifan Wang, Tat-Seng Chua*
+
+6. **NAPG: Non-Autoregressive Program Generation for Hybrid Tabular-Textual Question Answering**  `NAPG` <ins>Arxiv</ins> 2023
+
+   `TAT-QA`
+
+    [[Paper](https://arxiv.org/abs/2211.03462)] *Tengxun Zhang, Hongfei Xu, Josef van Genabith, Deyi Xiong, Hongying Zan*
+
+##### Multimodal Reasoning
+
+1. **
+
 
 #### Non-Retrieval Methods
 
