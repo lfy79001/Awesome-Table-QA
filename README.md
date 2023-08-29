@@ -221,6 +221,23 @@
 
     [[Paper](https://arxiv.org/abs/2210.10350)] *Yingyao Wang, Junwei Bao, Chaoqun Duan, Youzheng Wu, Xiaodong He, Tiejun Zhao*
 
+7. **TACR: A Table-alignment-based Cell-selection and Reasoning Model for Hybrid Question-Answering**  `TACR` <ins>ACL-Findings</ins> 2023
+
+    `HybridQA`
+
+    [[Paper](https://arxiv.org/abs/2305.14682)] *Jian Wu, Yicheng Xu, Yan Gao, Jian-Guang Lou, Börje F. Karlsson, Manabu Okumura*
+
+8. **MAFiD: Moving Average Equipped Fusion-in-Decoder for Question Answering over Tabular and Textual Data**  `MAFiD` <ins>EACL-Findings</ins> 2023
+
+    `HybridQA`
+
+    [[Paper](https://aclanthology.org/2023.findings-eacl.177/)] *Sung-Min Lee, Eunhwan Park, Daeryong Seo, Donghyeon Jeon, Inho Kang, Seung-Hoon Na*
+
+9. **S3HQA: A Three-Stage Approach for Multi-hop Text-Table Hybrid Question Answering** `S3HQA` <ins>ACL</ins> 2023
+
+    `HybridQA`
+
+   [[Paper](https://arxiv.org/abs/2305.11725)] *Fangyu Lei, Xiang Li, Yifan Wei, Shizhu He, Yiming Huang, Jun Zhao, Kang Liu*
 
 ##### Numerical Reasoning
 
