@@ -88,6 +88,12 @@
     
     [[Paper](https://arxiv.org/abs/2004.14373)] [[Code](https://github.com/google-research-datasets/totto)]*Ankur P. Parikh, Xuezhi Wang, Sebastian Gehrmann, Manaal Faruqui, Bhuwan Dhingra, Diyi Yang, Dipanjan Das*
 
+19. **Open-WikiTable: Dataset for Open Domain Question Answering with Complex Reasoning over Table**  `Open-Wikitable` <ins>ACL-Findings </ins> 2023
+
+    [[Paper](https://arxiv.org/abs/2305.07288)] *Sunjun Kweon, Yeonsu Kwon, Seonhee Cho, Yohan Jo, Edward Choi*
+
+
+
 #### Multiple-Turn
 
 1. **PACIFIC: Towards proactive conversational question answering over tabular and textual data in finance** `Pacific` <ins>EMNLP</ins> 2022
@@ -179,6 +185,17 @@
 
     [[Paper](https://arxiv.org/abs/2305.09645)] *Jinhao Jiang, Kun Zhou, Zican Dong, Keming Ye, Wayne Xin Zhao, Ji-Rong Wen*
 
+6. **LEVER: Learning to Verify Language-to-Code Generation with Execution** <ins>ICML</ins> 2023
+
+   `WikiTableQuestions`
+
+   [[Paper](https://proceedings.mlr.press/v202/ni23b/ni23b.pdf)] *Ansong Ni, Srini Iyer, Dragomir Radev, Veselin Stoyanov, Wen-tau Yih, Sida Wang, Xi Victoria Lin*
+
+7. **Generate, Transform, Answer: Question Specific Tool Synthesis for Tabular Data** 
+
+   `WikiTableQuestions`
+
+   [[Paper](https://arxiv.org/abs/2303.10138)] *Carlos Gemmell, Jeffrey Dalton*
 
 
 #### Retrieval-then-Read Methods
